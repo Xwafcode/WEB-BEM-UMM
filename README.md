@@ -1,6 +1,6 @@
 # Web BEM UMM - Kabinet Satya Prabaswara
 
-Situs web resmi Badan Eksekutif Mahasiswa Universitas Muhammadiyah Malang (BEM UMM) periode 2024-2025, Kabinet Satya Prabaswara. Portal utama untuk seluruh informasi, berita, kegiatan, dan profil kepengurusan gerakan mahasiswa UMM.
+Situs web draft/demo Badan Eksekutif Mahasiswa Universitas Muhammadiyah Malang (BEM UMM) periode 2024-2025, Kabinet Satya Prabaswara. Portal utama untuk seluruh informasi, berita, kegiatan, dan profil kepengurusan gerakan mahasiswa UMM.
 
 ## 🚀 Fitur Utama
 - **Beranda Interaktif**: Animasi *parallax* modern, sorotan berita, dan profil pimpinan BEM.
