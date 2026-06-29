@@ -36,4 +36,4 @@ Situs web draft/demo Badan Eksekutif Mahasiswa Universitas Muhammadiyah Malang (
 4. Buka `http://localhost:5173` di browser Anda.
 
 ---
-© 2024-2025 BEM UMM — Kabinet Satya Prabaswara.
+
