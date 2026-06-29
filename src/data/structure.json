@@ -1,0 +1,116 @@
+{
+  "kabinet": "Satya Prabaswara",
+  "periode": "2024–2025",
+  "pimpinan": [
+    {
+      "id": "ketua",
+      "nama": "Muhammad Faris Al-Ghazali",
+      "jabatan": "Ketua BEM",
+      "jurusan": "Ilmu Hukum",
+      "fakultas": "Hukum",
+      "angkatan": "2022",
+      "foto": "https://picsum.photos/seed/ketua-bem-umm/300/300"
+    },
+    {
+      "id": "wakil",
+      "nama": "Siti Nur Aisyah Rahmawati",
+      "jabatan": "Wakil Ketua BEM",
+      "jurusan": "Psikologi",
+      "fakultas": "Psikologi",
+      "angkatan": "2022",
+      "foto": "https://picsum.photos/seed/wakil-bem-umm/300/300"
+    },
+    {
+      "id": "sekretaris",
+      "nama": "Ahmad Rizky Firmansyah",
+      "jabatan": "Sekretaris Umum",
+      "jurusan": "Administrasi Bisnis",
+      "fakultas": "Ilmu Sosial dan Ilmu Politik",
+      "angkatan": "2022",
+      "foto": "https://picsum.photos/seed/sekretaris-bem-umm/300/300"
+    },
+    {
+      "id": "bendahara",
+      "nama": "Dinda Ayu Permatasari",
+      "jabatan": "Bendahara Umum",
+      "jurusan": "Akuntansi",
+      "fakultas": "Ekonomi dan Bisnis",
+      "angkatan": "2022",
+      "foto": "https://picsum.photos/seed/bendahara-bem-umm/300/300"
+    }
+  ],
+  "departemen": [
+    {
+      "id": "psdm",
+      "nama": "Pengembangan Sumber Daya Mahasiswa",
+      "singkatan": "PSDM",
+      "deskripsi": "Berfokus pada peningkatan kapasitas dan kompetensi mahasiswa UMM.",
+      "anggota": [
+        { "nama": "Rizki Ardiansyah", "jabatan": "Kepala Departemen", "foto": "https://picsum.photos/seed/psdm-1/200/200" },
+        { "nama": "Lailatul Fitriyah", "jabatan": "Wakil Kepala", "foto": "https://picsum.photos/seed/psdm-2/200/200" },
+        { "nama": "Bagas Pramudita", "jabatan": "Staf", "foto": "" },
+        { "nama": "Nadia Rahayu", "jabatan": "Staf", "foto": "" }
+      ]
+    },
+    {
+      "id": "kastrat",
+      "nama": "Kajian dan Aksi Strategis",
+      "singkatan": "KASTRAT",
+      "deskripsi": "Mengkaji isu-isu strategis dan menyuarakan aspirasi mahasiswa kepada pemangku kebijakan.",
+      "anggota": [
+        { "nama": "Hafidz Nurul Fauzi", "jabatan": "Kepala Departemen", "foto": "https://picsum.photos/seed/kastrat-1/200/200" },
+        { "nama": "Annisa Putri Wijaya", "jabatan": "Wakil Kepala", "foto": "https://picsum.photos/seed/kastrat-2/200/200" },
+        { "nama": "Dimas Pratama", "jabatan": "Staf", "foto": "" },
+        { "nama": "Salsabila Hanum", "jabatan": "Staf", "foto": "" }
+      ]
+    },
+    {
+      "id": "sosmas",
+      "nama": "Sosial Masyarakat",
+      "singkatan": "SOSMAS",
+      "deskripsi": "Membangun kepedulian sosial dan menjalin hubungan harmonis antara mahasiswa dan masyarakat.",
+      "anggota": [
+        { "nama": "Yusuf Eka Saputra", "jabatan": "Kepala Departemen", "foto": "https://picsum.photos/seed/sosmas-1/200/200" },
+        { "nama": "Dewi Maharani", "jabatan": "Wakil Kepala", "foto": "https://picsum.photos/seed/sosmas-2/200/200" },
+        { "nama": "Faizal Rahman", "jabatan": "Staf", "foto": "" },
+        { "nama": "Rina Kustiani", "jabatan": "Staf", "foto": "" }
+      ]
+    },
+    {
+      "id": "kominfo",
+      "nama": "Komunikasi dan Informasi",
+      "singkatan": "KOMINFO",
+      "deskripsi": "Mengelola komunikasi publik dan menyebarkan informasi kegiatan BEM UMM secara luas.",
+      "anggota": [
+        { "nama": "Alif Nur Hidayat", "jabatan": "Kepala Departemen", "foto": "https://picsum.photos/seed/kominfo-1/200/200" },
+        { "nama": "Zahra Amalia", "jabatan": "Wakil Kepala", "foto": "https://picsum.photos/seed/kominfo-2/200/200" },
+        { "nama": "Gilang Permana", "jabatan": "Staf Desain", "foto": "" },
+        { "nama": "Bunga Citra", "jabatan": "Staf Media", "foto": "" }
+      ]
+    },
+    {
+      "id": "kewirausahaan",
+      "nama": "Kewirausahaan",
+      "singkatan": "WIRAUSAHA",
+      "deskripsi": "Mendorong jiwa wirausaha dan kemandirian ekonomi mahasiswa UMM.",
+      "anggota": [
+        { "nama": "Reza Firmansyah", "jabatan": "Kepala Departemen", "foto": "https://picsum.photos/seed/wirausaha-1/200/200" },
+        { "nama": "Putri Oktaviani", "jabatan": "Wakil Kepala", "foto": "https://picsum.photos/seed/wirausaha-2/200/200" },
+        { "nama": "Ade Prasetyo", "jabatan": "Staf", "foto": "" },
+        { "nama": "Maya Indah Sari", "jabatan": "Staf", "foto": "" }
+      ]
+    },
+    {
+      "id": "seni-budaya",
+      "nama": "Seni dan Budaya",
+      "singkatan": "SENIBUD",
+      "deskripsi": "Melestarikan dan mengembangkan seni budaya di lingkungan kampus UMM.",
+      "anggota": [
+        { "nama": "Dian Permana Sari", "jabatan": "Kepala Departemen", "foto": "https://picsum.photos/seed/senibud-1/200/200" },
+        { "nama": "Wahyu Setiawan", "jabatan": "Wakil Kepala", "foto": "https://picsum.photos/seed/senibud-2/200/200" },
+        { "nama": "Ayu Wulandari", "jabatan": "Staf", "foto": "" },
+        { "nama": "Bima Sakti", "jabatan": "Staf", "foto": "" }
+      ]
+    }
+  ]
+}
